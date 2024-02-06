@@ -15,11 +15,12 @@
                   helpers,      
                   repositories,                  
                   services,                  
-                  Main
+                  InventoryApplication
                   
 =: SRC -> resources
 
-=: test -> InventoryControllerTest,\
+=: test ->                             
+           InventoryControllerTest,
            ProductServiceTests
 
 =: pom.xml
