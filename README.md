@@ -9,22 +9,16 @@
 ---------------------------------------------------------
 
 # Changes are:
-=: SRC -> JAVA -> controllers, 
-
-                  entities,
-
-                  helpers,
-                  
-                  repositories,
-                  
-                  services,
-                  
+=: SRC -> JAVA -> controllers,\ 
+                  entities,\
+                  helpers,\
+                  repositories,\                  
+                  services,\                  
                   Main
                   
 =: SRC -> resources
 
-=: test -> InventoryControllerTest,
-           
+=: test -> InventoryControllerTest,\
            ProductServiceTests
 
 =: pom.xml
