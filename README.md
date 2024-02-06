@@ -20,7 +20,7 @@
 =: SRC -> resources
 
 =: test ->                             
-           InventoryControllerTest,
+           InventoryControllerTest,        
            ProductServiceTests
 
 =: pom.xml
