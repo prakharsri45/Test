@@ -10,8 +10,8 @@
 
 # Changes are:
 =: SRC -> JAVA -> controllers,\ 
-                  entities,
-                  helpers,
+                  entities,      
+                  helpers,      
                   repositories,                  
                   services,                  
                   Main
