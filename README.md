@@ -15,9 +15,12 @@
                   repositories,
                   services,
                   Main
+                  
 =: SRC -> resources
+
 =: test -> InventoryControllerTest,
            ProductServiceTests
+
 =: pom.xml
 
 ---------------------------------------------------------------------------
