@@ -1,7 +1,9 @@
 # apex-springboot-inventory
 
 => http://localhost:8080/api/inventory/product/
+
 => http://localhost:8080/api/inventory/product/2
+
 => http://localhost:8080/api/inventory/recalled/
 
 - Clone the repository (https://github.com/alidadasb/apex-springboot-inventory)
