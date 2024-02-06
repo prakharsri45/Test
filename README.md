@@ -12,8 +12,8 @@
 =: SRC -> JAVA -> controllers,\ 
                   entities,\
                   helpers,\
-                  repositories,\                  
-                  services,\                  
+                  repositories,                  
+                  services,                  
                   Main
                   
 =: SRC -> resources
